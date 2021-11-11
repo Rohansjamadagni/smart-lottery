@@ -23,7 +23,7 @@ networks:
     link: '0xa36085F69e2889c224210F603D836748e7dC0088'
     eth_usd_price_feed: '0x9326BFA02ADD2366b30bacB125260Af641031331'
     keyhash: '0x6c3699283bda56ad74f6b855546325b68d482e983852a7a82979cc4807b641f4'
-    fee: 1000000000000000
+    fee: 100000000000000000
     verify: True
   mainnet-fork:
     vrf_coordinator: '0xf0d54349aDdcf704F77AE15b96510dEA15cb7952'
